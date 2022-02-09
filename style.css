@@ -1,0 +1,14 @@
+/**{background: aqua;}*/
+#cabeza{
+    position:fixed;
+    display:inline-block;
+}
+#cabecera{
+    position: fixed;
+}
+li{
+   display: inline;
+   float: right;
+   right:15px;
+}
+
